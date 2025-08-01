@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body {
+    background-color: rgb(167, 163, 163);
+    padding: 10px;
+}
+.container{
+    
+    
+    
+    width: auto;
+    
+}
+#cabeca{
+    margin-top: 10px;
+    height: 100px;;
+    text-align: center;
+    border: 5px solid black;
+}
+#cabeca h1{
+    
+    border: 1px solid red;
+    
+    
+}
+/* =============== caixa de texto =================== */
+#corpo{
+    /* =========== -limites- ================= */
+    border: 1px solid black;
+    width: auto;
+    height: auto;
+    margin: 5px;
+    
+
+}
+#texto{
+    /* =========== -limites- ================= */
+    border: 1px solid red;
+    max-width: 500px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+}
+
+#botao_adicionar{
+    border: 5px solid rgb(130, 212, 7);
+    background-color: rgb(130, 212, 7);
+    
+    
+    
+    
+    
+    
+
+}
+#corpo a{
+    border: 5px solid rgb(130, 212, 7);
+    background-color: rgb(130, 212, 7);
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    
+}
+
